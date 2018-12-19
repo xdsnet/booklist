@@ -14,3 +14,4 @@
  
  ## 杂
 1. [pdf之家](http://pdfzj.cn)
+1. [万千合集站](http://www.hejizhan.com)
